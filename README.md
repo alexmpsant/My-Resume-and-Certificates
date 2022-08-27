@@ -1,4 +1,4 @@
-# My_Resume and Certificates
+# My Resume and Certificates
 Here are my Resume and Certificates:
 
 Google Data Analytics Certificate: https://www.coursera.org/account/accomplishments/professional-cert/ZWSFTEFWF7DR
